@@ -3,7 +3,7 @@ import "./globals.css";
 import PhoneFrameLayout from "@/app/phone-frame-layout/PhoneFrameLayout";
 
 export const metadata: Metadata = {
-  title: "Ring-go App",
+  title: "Ring-Go App",
   description: "링고를 통해 새로운 습관을 만들어 보세요.",
 };
 
