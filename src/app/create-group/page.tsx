@@ -1,3 +1,3 @@
 export default function Home() {
-  return <>냐냐</>;
+  return <>기본 홈페이지</>;
 }
